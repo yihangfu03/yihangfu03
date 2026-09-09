@@ -1,12 +1,8 @@
-<h1 align="center">Hi, I'm Yihang 👋</h1>
+Hi, I'm Yihang 👋
 
-<p align="center">
   MSCS @ <a href="https://www.columbia.edu/">Columbia University</a>
-</p>
 
-<p align="center">
   Computer Science · Backend Development
-</p>
 
 ---
 
