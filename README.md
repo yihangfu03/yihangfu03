@@ -2,4 +2,4 @@
 
 🎓 MSCS @ Columbia University
 
-💻 Interested in backend development with Java and Go.
+💻 Interested in backend development with Java and Go
